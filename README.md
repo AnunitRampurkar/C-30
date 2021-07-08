@@ -1,2 +1,1 @@
-# C-30
-- Created by Anunit Rampurkar
+This is the project of class C-30
